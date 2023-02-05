@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java, Spring, Hibernate, DSA.**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-sahal&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-sahal&theme=radical&hide_border=true" width="700" height="170"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
